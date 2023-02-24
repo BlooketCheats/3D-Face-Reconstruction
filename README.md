@@ -1,3 +1,12 @@
+Hello My Name Is Noah And i Am (NOT THE INVENTOR) of this project this is made 
+by the group of people named Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou and Georgios Tzimiropoulos
+
+Please Know i did not get any verbal or email for consent.
+
+
+
+
+
 
 
 Try out the code without running it! Check out our online demo here. Alternatively, pull the DockerHub image `asjackson:vrn`, see docs in the vrn-docker repo.
