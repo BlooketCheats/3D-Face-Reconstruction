@@ -1,5 +1,4 @@
-Large Pose 3D Face Reconstruction from a Single Image via Direct Volumetric Regression
-Aaron S. Jackson, Adrian Bulat, Vasileios Argyriou and Georgios Tzimiropoulos
+
 
 Try out the code without running it! Check out our online demo here. Alternatively, pull the DockerHub image `asjackson:vrn`, see docs in the vrn-docker repo.
 
